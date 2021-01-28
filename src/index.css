@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.root {
+  width: 50%;
+  background-color: rgb(32, 32, 32);
+}
+.header{
+  margin: 0% auto;
+  background-color: whitesmoke
+}
+.frame{
+
+}
+
+.profilePic {
+  background-color: ;
+  text-align: ;
+  font-size: ;
+  font-family: ;
+  font-weight: ;
+  font-style: ;
+  text-align: ;
+}
+
+.title {
+
+}
+
+.time {
+
+}
+
+.body {
+
+}
+
+
+.img {
+  
+}
